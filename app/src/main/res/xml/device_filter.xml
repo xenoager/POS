@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+<!-- ACR1251U Smart Card Reader -->
+<usb-device vendor-id="1839" product-id="8730" class="255" subclass="66" protocol="1" />
+<!-- finger print sensor -->
+<usb-device vendor-id="8457" product-id="30264" class="255" subclass="66" protocol="1" />
+</resources>

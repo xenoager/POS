@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/text_tv"
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:gravity="start|center_vertical"
+    android:paddingStart="20dp"
+    android:paddingEnd="20dp"
+    android:textColor="#000000"
+    android:textSize="18sp"
+    android:textStyle="bold"
+    android:background="#ffffff"
+    tools:text="POS ITEM" />
